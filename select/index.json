@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "Someday Certainly",
+  "base_artist": "スズミ（CV:社本悠）",
+  "createdAt": "2026-03-02T10:42:49.453264Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Someday Certainly",
+      "artist": "スズミ(CV:社本悠)",
+      "has_synced": false,
+      "path": "select/pl_01_Someday_Certainly_スズミ(CV_社本悠).txt"
+    }
+  ]
+}
